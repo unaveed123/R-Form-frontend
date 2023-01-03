@@ -1,0 +1,84 @@
+body{
+    background-image: url(../images/image\ 1.jpg);
+}
+div{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 30px;
+    /* text-align: center; */
+    margin-left: 400px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-style: italic;
+}
+label{
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 60px;
+    pad: 5px;
+    margin-top: 20px;
+}
+input{
+    margin-left: 120px;
+    border: 2px solid black;
+    margin-top: 5px;
+    border-radius: 30px;
+    width: 250px;
+    height: 20px;
+
+}
+#day{
+    width: 60px;
+    margin: 0;
+}
+#month{
+    width: 90px;
+    margin-left: 120px;
+}
+#year{
+    width: 60px;
+    margin: 0;
+}
+#male{
+    margin: 0;
+    padding: 0;
+}
+#female{
+    margin: 0;
+    padding: 0;
+}
+#m{
+    margin-left: 60px;
+    padding: 0;
+}
+#f{
+    /* margin: 0; */
+    /* padding: 0; */
+}
+button{
+    width: 200px;
+    margin-left: 250px;
+    border: 2px solid black;
+    border-radius: 70px;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color: tan;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.male{
+    margin-left: 60px;
+    pad: 0;
+    width: 10px;
+    height: 20px;
+}
+.female{
+    margin-left: 60;
+    padding: 0;
+    width: 10px;
+    height: 20px;
+}
